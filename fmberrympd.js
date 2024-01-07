@@ -1,5 +1,4 @@
 //FMBerry RDS MPD Songinformation Bridge
-//Written 2013 by Tobias Mädel (t.maedel@alfeld.de)
 
 //MPD Host
 var mpdhost = "127.0.0.1";
